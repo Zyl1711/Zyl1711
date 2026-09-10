@@ -29,5 +29,5 @@ A short description of what the project does, the technologies used, and what I 
 
 ## Connect With Me
 
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ziyang-li-a40a82336/)
+* Email: [My email](mailto:z5638944@ad.unsw.edu.au)
