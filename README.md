@@ -1,4 +1,4 @@
-# Hi, I'm Claire 👋
+# Hi, I'm Flora 👋
 
 I'm a second-year Computer Science student at UNSW, interested in software development, problem-solving, and building practical applications.
 
